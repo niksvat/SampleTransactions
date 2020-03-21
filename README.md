@@ -1,2 +1,0 @@
-# SampleTransactions
-Created with CodeSandbox
